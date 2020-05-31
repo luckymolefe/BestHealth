@@ -1,0 +1,2 @@
+TIMESTAMP 		 ACTION MESSAGE 
+19-07-2019 03:04:51	Created Database Backup 
