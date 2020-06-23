@@ -4,7 +4,7 @@
 	$root = $_SERVER['DOCUMENT_ROOT'].'/'.basename(__DIR__).'/';
 	session_start();
 	
-	require_once('config/connect.php');
+	#require_once('config/connect.php');
 	require_once($root.'model/adminModel.php');
 	require_once($root.'model/patientModel.php');
 	require_once($root.'model/hcpModel.php');
