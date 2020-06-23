@@ -20,14 +20,8 @@
 			if(empty($params['name']) || empty($params['phone']) || empty($params['email']) || empty($params['messageText'])) {
 				$helper->redirect('index.php?action=null');
 			} else {
-				/*if($helper->sendEmail($params)) {
-					//email sent
-				} else {
-					//fail to send email
-				}*/
 				$messageBody = "Names: ".$params['name']."<br/>Tel: ".$params['phone'].
 							  "<br/>Email: ".$params['email']."<br/>".$params['messageText'];
-				//implode(', ', $params);
 				//package everything in an array format
 				$data = array(
 					'id' => 'webvisitor_'.$helper->tokenize(),
