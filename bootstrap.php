@@ -1,7 +1,8 @@
 <?php
 	
 	//bootstrapping
-	$root = $_SERVER['DOCUMENT_ROOT'].'/'.basename(__DIR__).'/';
+	#$root = $_SERVER['DOCUMENT_ROOT'].'/'.basename(__DIR__).'/';
+	$root = $_SERVER['DOCUMENT_ROOT'].'/';
 	session_start();
 	
 	require_once($root.'config/connect.php');
