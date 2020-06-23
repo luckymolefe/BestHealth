@@ -10,7 +10,7 @@
 <!-- 	<link rel="stylesheet" type="text/css" href="../boostrap3/webfont-medical-icons/css/wfmi-style.css"> -->
 	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/font-awesome-line-awesome/css/all.min.css">
-	<link rel="stylesheet" href="../css/wfmi-style.css">
+	<link rel="stylesheet" href="webfont-medical-icons/css/wfmi-style.css">
 	<style type="text/css">
 		body {
 			max-width: 100%;
