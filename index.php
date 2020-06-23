@@ -1,6 +1,8 @@
 <?php
 	//Index page [Home] of Best Health
 	//require_once('bootstrap.php');
+	require_once('model/messageModel.php');
+	require_once('model/helperModel.php');)
 	if(isset($_POST['send']) && $_POST['send'] == "true") {
 		$notify = new Notification(); #instantiate to get access to method sendMessage()
 		$helper = new Helper(); #instantiate to get access to method tokenize()
