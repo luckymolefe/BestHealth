@@ -1,6 +1,6 @@
 <?php
 	//message model
-	$basepath = $_SERVER['DOCUMENT_ROOT'].'/besthealth/';
+	$basepath = $_SERVER['DOCUMENT_ROOT'].'/';
 	require_once($basepath.'bootstrap.php');
 
 	/**
