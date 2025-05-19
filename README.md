@@ -1,6 +1,6 @@
 # `BestHealth`
 
-- __BestHealth is social media application for sharing experience, emotions and memories through photos.__
+- __BestHealth it is an application for Medical Pratcice Management, with Doctor & Administration Panel and also Patients Portal. Patiens appointments booking, Billing System & live Reminders.__
 
 ## `Built With`
 
@@ -30,7 +30,7 @@ You may use the following steps to get a local copy:
 
 -cd to the project directory 
 
--Open project in IDE Open Live Preview through IDE or
+-Open project in IDE Open Live Preview through IDE and requires running on PHP Server.
 
 -use localhost to view the project in your browser
 
